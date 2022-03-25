@@ -1,0 +1,3 @@
+/Users/tananovartem/CLionProjects/variant/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tananovartem/CLionProjects/variant/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tananovartem/CLionProjects/variant/cmake-build-debug/CMakeFiles/variant.dir
